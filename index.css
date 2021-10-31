@@ -1,0 +1,62 @@
+body, html{
+  margin:0 auto; padding:8px;
+  text-align: center;
+  /*background-color: rgb(240,250,240);*/
+  display: block;
+}
+
+#menu {
+  background-color: blueviolet;
+}
+/*above to be commented*/
+ }
+ 
+ #section1 {
+  height: 400px;
+  width: 100%;
+ }
+
+ li {
+  float:left;
+  list-style-type: none;
+
+ }
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /* padding: 20px; */
+ }
+ 
+ li {
+  float: right;
+  list-style-type: none;
+ }
+ 
+ ul a {
+  display: inline-block;
+  padding: 10px;
+ }
+ 
+ a:link {
+  text-decoration: none;
+  font-weight: bold;
+
+ }
+ 
+
+
+foooter {}
+
+.column {
+ float: left;
+ width: 25%;
+ height: 200px;
+ background-color: #E1EBE6;
+ margin-top: 40px;
+ text-align: center;
+ padding-top: 70px;
+ 
+}
+
