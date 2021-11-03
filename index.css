@@ -10,7 +10,7 @@ body, html{
    */
 
   
-}
+
 /* 
 #menu {
   background-color: blueviolet;
@@ -134,9 +134,22 @@ body, html{
    display: flex;
    border: white solid 3px;
  }
-.menu {
+ #menutitle {
+  
+   text-align: center;
+ }
+.firstmenu {
   display: flex;
   padding-left: 100px;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.secondmenu {
+  display: flex;
+  padding-left: 100px;
+  flex-direction: row;
+  justify-content: space-evenly;
+
 }
 .deckerimages {
 
